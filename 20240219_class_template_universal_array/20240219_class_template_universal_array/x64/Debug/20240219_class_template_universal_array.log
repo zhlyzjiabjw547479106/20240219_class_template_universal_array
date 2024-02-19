@@ -1,0 +1,12 @@
+﻿  1_MyArray.cpp
+D:\c_language_code\heimachengxuyuan_from_p72\20240219_class_template_universal_array\20240219_class_template_universal_array\MyArray.hpp(22,20): error C2512: “Person”: 没有合适的默认构造函数可用
+  (编译源文件“1_MyArray.cpp”)
+  D:\c_language_code\heimachengxuyuan_from_p72\20240219_class_template_universal_array\20240219_class_template_universal_array\MyArray.hpp(22,20):
+  模板实例化上下文(最早的实例化上下文)为
+  	D:\c_language_code\heimachengxuyuan_from_p72\20240219_class_template_universal_array\20240219_class_template_universal_array\1_MyArray.cpp(26,22):
+  	查看对正在编译的 类 模板 实例化“MyArray<Person>”的引用
+  	D:\c_language_code\heimachengxuyuan_from_p72\20240219_class_template_universal_array\20240219_class_template_universal_array\MyArray.hpp(17,2):
+  	在编译 类 模板 成员函数“MyArray<Person>::MyArray(int)”时
+  		D:\c_language_code\heimachengxuyuan_from_p72\20240219_class_template_universal_array\20240219_class_template_universal_array\1_MyArray.cpp(66,20):
+  		请参阅 "testPerson" 中对 "MyArray<Person>::MyArray" 的第一个引用
+  
